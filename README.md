@@ -131,7 +131,8 @@ Acceptance criteria:
           2. The user can click on the search field.
           3. After the user clicks on the search field, the system must activate the search field.
           4. The user can enter the name of a desired product in the search field.
-          5. The name of the desired product entered in the search field must be limited to a maximum of 200 characters, including gaps.
+          5. The name of the desired product entered in the search field must be limited to a maximum of 200 characters, 
+             including gaps.
           6. The user can click the button “Search”.
           7. After the user clicks the button “Search”, the system must display the product selection page with relevant product 
              names from the database based on the user's search query, matching at least three characters of the product name.
